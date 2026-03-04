@@ -1,20 +1,18 @@
-# excel-dashboard
-# Дашборд по анализу уровня сервиса и продуктивности в регионах
+# Regional Service Level & Productivity Dashboard
 
-## Описание
-Данный проект — дашборд в Microsoft Excel для анализа ключевых показателей по четырём регионам: Восток, Север, Юг и Запад.
+## Overview
+This project features an interactive Microsoft Excel dashboard designed to analyze key performance indicators (KPIs) across four strategic regions: **East, North, South, and West**.
 
-## Основные функции
-- Графики динамики продуктивности, уровня сервиса и показателя качества по месяцам  
-- Интерактивный дашборд на основе сводной таблицы, позволяющий фильтровать данные по регионам и периодам  
-- Визуализация изменений и сравнительный анализ регионов  
+## Key Features
+* **Performance Metrics:** Monthly tracking of Productivity, Service Level (SL), and Quality Scores.
+* **Interactive Analytics:** Built with Pivot Tables and Slicers, allowing users to dynamically filter data by region and time period.
+* **Comparative Analysis:** Visualizes regional trends and identifies performance gaps through integrated charts.
 
-## Используемые инструменты
-- Microsoft Excel  
-- Сводные таблицы  
-- Диаграммы (линейные графики)  
-- Фильтры и условное форматирование  
+## Tools & Techniques
+* **Microsoft Excel:** Advanced formulas and data structuring.
+* **Pivot Tables & Slicers:** For interactive data exploration.
+* **Data Visualization:** Line charts and conditional formatting for trend identification.
 
-## Как использовать
-Откройте файл `dashboard.xlsx` в Microsoft Excel.  
-Используйте фильтры и срезы для выбора интересующих регионов и временных периодов.
+## How to Use
+1. Download and open the `dashboard.xlsx` file in Microsoft Excel.
+2. Use the **Slicers** (filters) on the dashboard to toggle between regions and specific months.
