@@ -16,3 +16,5 @@ This project features an interactive Microsoft Excel dashboard designed to analy
 ## How to Use
 1. Download and open the `dashboard.xlsx` file in Microsoft Excel.
 2. Use the **Slicers** (filters) on the dashboard to toggle between regions and specific months.
+
+Note: The internal data and dashboard labels are in Russian, reflecting the source region's reporting standards.
